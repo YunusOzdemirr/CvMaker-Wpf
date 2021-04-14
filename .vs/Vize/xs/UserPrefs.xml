@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vize/Views/CvAddPage.xaml">
+    <Files>
+      <File FileName="Vize/Models/Cv.cs" Line="1" Column="1" />
+      <File FileName="Vize/Models/Nationality.cs" />
+      <File FileName="Vize/Views/CvAddPage.xaml" Line="89" Column="38" />
+      <File FileName="Vize/Views/CvAddPage.xaml.cs" />
+      <File FileName="Vize/Views/NationalityAddPage.xaml" />
+      <File FileName="Vize/MainWindow.xaml.cs" Line="26" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vize" expanded="True">
+            <Node name="Vize" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="CvAddPage.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="MainWindow.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
