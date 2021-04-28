@@ -6,7 +6,7 @@
       <File FileName="Vize/Views/CvAddPage.xaml" Line="89" Column="38" />
       <File FileName="Vize/Views/CvAddPage.xaml.cs" />
       <File FileName="Vize/Views/NationalityAddPage.xaml" />
-      <File FileName="Vize/MainWindow.xaml.cs" Line="26" Column="31" />
+      <File FileName="Vize/MainWindow.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
